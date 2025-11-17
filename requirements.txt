@@ -1,4 +1,4 @@
-mkdocs
+zensical
 mkdocs-macros-plugin
 mkdocs-exclude
 markdown-include
