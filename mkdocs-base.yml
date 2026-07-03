@@ -106,6 +106,7 @@ plugins:
     version_selector: false
     css_dir: css
     javascript_dir: js
+    alias_type: redirect
     canonical_version: null
 
 extra: # Used in main.html template and can't be externalized
